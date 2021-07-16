@@ -9,4 +9,4 @@ For reproducibility, we make all datasets and code public.
     - AWS: code/aws_sagemaker
     - Azure: code/azure
     - Oracle: code/oracle_datascience
-- Configurations: please refer to our [paper]().
+- Configurations: please refer to our paper: XXX.
