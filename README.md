@@ -1,6 +1,6 @@
 # AutoMLBench
 
-We conduct a benchmark over several popular AutoML platforms --- 
+We conduct a benchmark over several popular AutoML platforms,
 Google Could AutoML, Amazon AWS Autopilot, Azure Automated ML and Oracle Data Science.
 For reproducibility, we make all datasets and code public.
 
