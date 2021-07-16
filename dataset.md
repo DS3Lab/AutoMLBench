@@ -1,6 +1,6 @@
 # Dataset
 
-We put datasets in Amazon S3. You need AWS CLI to download these files.
+We put datasets in Amazon S3. You can download these files using the following links.
 
 ## Kaggle dataset
 
