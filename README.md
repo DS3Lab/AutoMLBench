@@ -17,7 +17,7 @@ Our benchmark contains two snapshots, *mlbench* and *automlbanch*.
 
 ## automlbench
 
-*automlbench* was conducted during 2020-2021 when many machine learning clouds provide automatic machine learning training.
+*automlbench* was conducted during 2020-2022 when many machine learning clouds provide automatic machine learning training.
 Our goal is to evaluate their AutoML functionalities.
 
 - [Dataset](dataset.md)
