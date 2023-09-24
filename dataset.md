@@ -1,6 +1,6 @@
 # Dataset
 
-We put datasets in Amazon S3. 
+We put all evaluated datasets in Amazon S3.
 Users can download these files using the following links.
 
 ## Kaggle dataset
